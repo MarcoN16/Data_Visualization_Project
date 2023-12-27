@@ -16,14 +16,16 @@ The script computes summary statistics, consisting of:
 ![Summary_Statistics](https://github.com/MarcoN16/Data_Visualization_challenge/assets/150491559/69f305b1-6e1b-4e04-9937-4c443bbf393d)
 
 # Bar Charts and Pie Charts Creation
-1.	Bar Charts: Two sets of bar charts are generated, displaying the total number of timepoints for each drug regimen throughout the study period. The first chart utilizes the Pandas DataFrame.plot() method.
+1.	Bar Charts: Two sets of bar charts are generated, displaying the total number of timepoints for each drug regimen throughout the study period.
+The first chart utilizes the Pandas DataFrame.plot() method.
 The second chart is created using Matplotlib's pyplot methods.
 
 ![bar_chart_pandas](https://github.com/MarcoN16/Data_Visualization_challenge/assets/150491559/153f968f-d9ce-45d0-a2c7-599dca9dcfb3)
 ![bar_chart_pyplot](https://github.com/MarcoN16/Data_Visualization_challenge/assets/150491559/b5762b88-dd09-4f3d-8a93-4437cdb263e2)
 
 3.	Pie Charts: Two pie charts illustrate the distribution of female versus male mice in the study.
-The first pie chart employs the Pandas DataFrame.plot() method. The second pie chart is generated through Matplotlib's pyplot methods.
+The first pie chart employs the Pandas DataFrame.plot() method.
+The second pie chart is generated through Matplotlib's pyplot methods.
 
 ![pie_chart_pandas](https://github.com/MarcoN16/Data_Visualization_challenge/assets/150491559/092ce00f-f334-4c24-b52a-e4c9d267eea4)
 ![pie_chart_pandas](https://github.com/MarcoN16/Data_Visualization_challenge/assets/150491559/aa4f843b-1d9f-4454-93f0-6fd2403e0528)
